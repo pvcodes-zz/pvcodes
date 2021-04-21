@@ -12,8 +12,7 @@
     <img alt="Linkedin: pvcodes" src="https://img.shields.io/badge/LinkedIn-blue?style=glat&logo=linkedin" />
   </a>
   </p>
-<details align="center">
-   <summary> <samp>&#9776; Details</samp></summary>
+<!-- <details align="center"> -->
    <p align="center">
      <br>
       <a href="https://github.com/pvcodes?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -27,14 +26,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pvcodes&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     <!-- Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://pvcodes.netlify.app/src/my_resume.pdf">Resume</a><br> -->
 
-[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=pvcodes&theme=xcode)](https://github.com/pvcodes)<br>
-<a href="https://github.com/pvcodes?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+[![Pranjal's github activity graph](https://activity-graph.herokuapp.com/graph?username=pvcodes&theme=xcode)](https://github.com/pvcodes)<br>
+
+<div align="center">
+  <a href="https://github.com/pvcodes?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 <a href="https://github.com/pvcodes" target="_blank"><img alt="pvcodes" src="https://badges.pufler.dev/visits/pvcodes/pvcodes?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <a href="https://github.com/pvcodes/pvcodes" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/pvcodes/pvcodes?label=profile%20updated&style=flat-square"></a>
+</div>
 
   </samp>
   </p>
-</details>
+<!-- </details> -->
 <br>
 
 <samp>
